@@ -12,7 +12,7 @@
 9. Untuk konversi dari bilangan desimal ke oktal, program akan menghitung nilai oktal dari bilangan desimal menggunakan operasi modulus dan pembagian.
 10. Untuk konversi dari bilangan oktal ke desimal, program akan menghitung nilai desimal dari bilangan oktal menggunakan operasi modulus, pembagian, dan fungsi pow untuk menghitung pangkat 8.
 11. Setelah konversi selesai, program akan mencetak hasil konversi ke layar.
-12. 12.gram akan mengembalikan nilai 0, menandakan bahwa program telah selesai dengan sukses.
+12. gram akan mengembalikan nilai 0, menandakan bahwa program telah selesai dengan sukses.
 
 *PROGRAM TAHUN KABISAT*
 1. Pengguna akan diminta untuk memasukkan tahun dengan pesan "Masukkan tahun: ".
